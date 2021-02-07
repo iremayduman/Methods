@@ -1,1 +1,1 @@
-# classIntro
+# Metotlar
